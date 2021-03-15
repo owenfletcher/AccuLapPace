@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\owenf\eclipse-workspace\AccuLapPace\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceApp.mc" id="3" lineNum="5" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceApp.mc" id="3" lineNum="6" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceApp.mc" id="4" lineNum="10" pc="268435479" symbol="onStart"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceApp.mc" id="5" lineNum="14" pc="268435484" symbol="onStop"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceApp.mc" id="6" lineNum="18" pc="268435489" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceApp.mc" id="6" lineNum="19" pc="268435493" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="8" lineNum="14" pc="268435531" symbol="initialize"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="8" lineNum="15" pc="268435535" symbol="initialize"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="8" lineNum="16" pc="268435553" symbol="initialize"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="8" lineNum="17" pc="268435566" symbol="initialize"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="8" lineNum="18" pc="268435579" symbol="initialize"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="8" lineNum="19" pc="268435592" symbol="initialize"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="8" lineNum="20" pc="268435605" symbol="initialize"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="8" lineNum="21" pc="268435618" symbol="initialize"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="9" lineNum="24" pc="268435632" symbol="onTimerLap"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="9" lineNum="25" pc="268435636" symbol="onTimerLap"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="9" lineNum="26" pc="268435655" symbol="onTimerLap"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="9" lineNum="27" pc="268435671" symbol="onTimerLap"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="10" lineNum="30" pc="268435688" symbol="compute"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="10" lineNum="31" pc="268435692" symbol="compute"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="10" lineNum="32" pc="268435703" symbol="compute"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="10" lineNum="33" pc="268435752" symbol="compute"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="10" lineNum="34" pc="268435813" symbol="compute"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="10" lineNum="36" pc="268435880" symbol="compute"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="10" lineNum="37" pc="268435905" symbol="compute"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="10" lineNum="38" pc="268435936" symbol="compute"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="10" lineNum="40" pc="268435976" symbol="compute"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="10" lineNum="41" pc="268436002" symbol="compute"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="10" lineNum="43" pc="268436045" symbol="compute"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="10" lineNum="45" pc="268436079" symbol="compute"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="10" lineNum="46" pc="268436118" symbol="compute"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="10" lineNum="47" pc="268436144" symbol="compute"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="10" lineNum="48" pc="268436169" symbol="compute"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="10" lineNum="49" pc="268436195" symbol="compute"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="10" lineNum="51" pc="268436220" symbol="compute"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="10" lineNum="54" pc="268436271" symbol="compute"/>
+        <entry filename="C:\\Users\\owenf\\eclipse-workspace\\AccuLapPace\\source\\AccuLapPaceView.mc" id="10" lineNum="57" pc="268436280" symbol="compute"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry field="true" id="17" symbol="millisecondsString"/>
+        <entry field="true" id="8389344" symbol="seconds"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="18" symbol="distanceRan"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="14" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="8388947" method="true" symbol="value"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry field="true" id="16" symbol="milliseconds"/>
+        <entry id="10" object="true" symbol="AccuLapPaceView"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="12" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389137" method="true" symbol="compute"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="9" object="true" symbol="AccuLapPaceApp"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="13" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389751" method="true" symbol="onTimerLap"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="8388732" symbol="elapsedTime"/>
+        <entry field="true" id="8388734" symbol="elapsedDistance"/>
+        <entry id="11" module="true" symbol="Layouts"/>
+        <entry field="true" id="8389343" symbol="minutes"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="15" symbol="secondsString"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+        <entry endPc="268435687" name="lapInfo" stackId="1" startPc="268435636"/>
+        <entry arg="true" endPc="268436290" name="info" stackId="1" startPc="268435688"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="150" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="229" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="268" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="299" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="330" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="361" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="392" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="431" parentId="globals" symbolId="AccuLapPaceView" type="class"/>
+        <dataEntry offset="558" parentId="globals" symbolId="AccuLapPaceApp" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="AccuLapPaceApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="AccuLapPaceApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="AccuLapPaceApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="AccuLapPaceApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AccuLapPaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTimerLap" parent="AccuLapPaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="compute" parent="AccuLapPaceView">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
