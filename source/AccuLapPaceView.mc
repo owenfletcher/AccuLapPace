@@ -51,7 +51,7 @@ class AccuLapPaceView extends WatchUi.SimpleDataField {
 	        		return minutes.toString() + ":" + secondsString + "." + millisecondsString;
                 }
                 else {
-                	return "Calculating";
+                	return "0:00.000";
                 }
             } else {
                 return "0:00.000";
