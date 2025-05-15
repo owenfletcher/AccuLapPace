@@ -2,11 +2,11 @@
 AccuLapPace is a Garmin Connect IQ data field designed to provide runners and cyclists with highly accurate lap pace calculations, featuring millisecond-level precision. This tool is ideal for athletes who require detailed pacing information for training and performance analysis.
 
 ## Features
- - Millisecond Precision: Calculates lap pace with millisecond accuracy, offering more detailed insights than standard pace metrics.
+ - **Millisecond Precision:** Calculates lap pace with millisecond accuracy, offering more detailed insights than standard pace metrics.
 
- - Real-Time Updates: Provides immediate feedback on lap pace during activities.
+ - **Real-Time Updates:** Provides immediate feedback on lap pace during activities.
 
- - Seamless Integration: Designed to work effortlessly with compatible Garmin devices via the Connect IQ platform.
+ - **Seamless Integration:** Designed to work effortlessly with compatible Garmin devices via the Connect IQ platform.
 
 ## Installation
 To install AccuLapPace on your Garmin device:
@@ -72,6 +72,6 @@ Please ensure your code adheres to the existing style guidelines and includes ap
 This project is licensed under the MIT License.
 
 ## Acknowledgments
-Thanks to Owen Fletcher for developing and maintaining this project.
+Thanks to [Owen Fletcher](https://github.com/owenfletcher) for developing and maintaining this project.
 
 Garmin for providing the Connect IQ platform and development tools.
