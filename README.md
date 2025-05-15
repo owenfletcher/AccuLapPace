@@ -43,30 +43,26 @@ Once installed:
  - Garmin Connect IQ SDK: Ensure you have the latest version installed. Download it from the Garmin Developer Site.
 
 ### Building the Project
- 1. Clone the Repository:
-
-```git clone https://github.com/owenfletcher/AccuLapPace.git```
- 1. Navigate to the Project Directory:
-```cd AccuLapPace```
+ 1. Clone the Repository:<br>
+ ```git clone https://github.com/owenfletcher/AccuLapPace.git```
+ 1. Navigate to the Project Directory:<br>
+ ```cd AccuLapPace```
  1. Build the Project:
-
- - Use the `monkeyc` compiler provided by the Connect IQ SDK:
-```monkeyc -o AccuLapPace.prg -m manifest.xml -z resources source/AccuLapPace.mc```
- - Replace the file paths as necessary based on your environment.
-
+    - Use the `monkeyc` compiler provided by the Connect IQ SDK:<br>
+ ```monkeyc -o AccuLapPace.prg -m manifest.xml -z resources source/AccuLapPace.mc```
+    - Replace the file paths as necessary based on your environment.
  1. Deploy to a Device or Emulator:
-
  - Use the `connectiq` tool to install the app on your device or test it using the simulator.
 
 ## Contributing
 Contributions are welcome! To contribute:
 
  1. Fork the Repository.
- 1. Create a New Branch:
+ 1. Create a New Branch:<br>
   ```git checkout -b feature/YourFeature```
- 1. Commit Your Changes:
+ 1. Commit Your Changes:<br>
   ```git commit -m 'Add your feature'```
- 1. Push to the Branch:
+ 1. Push to the Branch:<br>
   ```git push origin feature/YourFeature```
  1. Open a Pull Request.
 
