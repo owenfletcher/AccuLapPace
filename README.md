@@ -52,7 +52,7 @@ Once installed:
  ```monkeyc -o AccuLapPace.prg -m manifest.xml -z resources source/AccuLapPace.mc```
     - Replace the file paths as necessary based on your environment.
  1. Deploy to a Device or Emulator:
- - Use the `connectiq` tool to install the app on your device or test it using the simulator.
+    - Use the `connectiq` tool to install the app on your device or test it using the simulator.
 
 ## Contributing
 Contributions are welcome! To contribute:
